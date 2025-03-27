@@ -1,7 +1,7 @@
 <!--Banner session-->
 <p>
-  <img src="https://i.postimg.cc/gkShTXDv/rocketseat.png" alt="Logo RocketSeat" width="180" align="left">
-  <img src="https://i.postimg.cc/5tpZqB3N/explorer-logo.png" alt="Logo Explorer" width="150" align="right">
+  <img src="https://i.imgur.com/0TKpT0A.png" alt="Logo RocketSeat" width="180" align="left">
+  <img src="https://i.imgur.com/9Fc5wq8.png" alt="Logo Explorer" width="150" align="right">
 </p>
 <br><br><br>
 
@@ -11,11 +11,11 @@
 
 <div align="center">
   <!-- <video src=""></video> -->
-  <img alt="RocketMovies" src="https://i.postimg.cc/j53cVh5N/rocket-Movies1.png" width="800">
+  <img alt="RocketMovies" src="https://i.imgur.com/0xQXZAM.png" width="800">
 <br><br>
-  <img alt="RocketMovies" src="https://i.postimg.cc/DwQcfh07/rocket-Movies2.png" width="800">
+  <img alt="RocketMovies" src="https://i.imgur.com/obD9cdU.png" width="800">
 <br><br>
-  <img alt="RocketMovies" src="https://i.postimg.cc/Pf8VGBW5/rocket-Movies3.png" width="800">
+  <img alt="RocketMovies" src="https://i.imgur.com/TyQUwt4.png" width="800">
 </div>
 <br><br><br>
 
@@ -26,11 +26,11 @@ This challenge was developed using the following technologies/tools:
   <code><img width="35" height="35" alt="html logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   <code><img width="35" height="35" alt="css logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   <code><img width="35" height="35" alt="javascript logo" src="https://i0.wp.com/pt.mundobabushka.com/wp-content/uploads/sites/5/2016/03/js-logo.png?fit=500%2C500&ssl=1"></code>
-  <code><img height="35" alt="vitejs logo" src="https://i.postimg.cc/y6mVYLYK/vite-js.png"></code>
+  <code><img height="35" alt="vitejs logo" src="https://i.imgur.com/OylmgS1.png"></code>
   <code><img height="35" alt="react logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-  <code><img height="35" alt="react-router logo" src="https://i.postimg.cc/PqPNzDS8/react-router.png"></code>
+  <code><img height="35" alt="react-router logo" src="https://i.imgur.com/H2Fw2kb.png"></code>
   <code><img width="50" height="35" alt="styled-components logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
-  <code><img width="35" height="35" alt="netlify logo" src="https://i.postimg.cc/LsSLvVkq/netlify-logo-icon-169923.png"></code>
+  <code><img width="35" height="35" alt="netlify logo" src="https://i.imgur.com/DYkH3iv.png"></code>
   <code><img height="33" alt="vs code logo" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
   <code><img height="33" alt="figma logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/></code>
 </p>
